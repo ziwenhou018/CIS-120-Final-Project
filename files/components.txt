@@ -1,0 +1,16 @@
+rect
+429 157 560 454 true
+rect
+621 329 0 0 true
+rect
+496 245 388 259 true
+rect
+656 314 567 454 true
+rect
+792 425 0 0 true
+rect
+769 387 61 54 true
+rect
+571 289 358 251 true
+rect
+304 88 445 377 true
